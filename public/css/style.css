@@ -23,3 +23,8 @@ form dd, form dt {
 	width: 100px !important;
 	margin: 0 auto !important;
 }
+
+#photo {
+	width: 160px !important;
+	height: 200px !important;
+}
